@@ -14,8 +14,8 @@ export default function Home({ blogs }) {
 					<Media className="admin-intro">
 						<Media body>
 							<p className="welcome-text">
-								My name is Kazuma and I am a CICCC student. I am learning web
-								development. This is my blog page.
+								My name is Kazuma and I am a CICCC student. I am learning about
+								web development. Thank you!
 							</p>
 						</Media>
 					</Media>
